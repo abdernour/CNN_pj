@@ -1,0 +1,22 @@
+# Large files
+*.pth
+*.h5
+data/
+cifar10_checkpoints/
+checkpoint/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
